@@ -161,7 +161,7 @@ img {
 .attribution-cta::after {
   content: '';
   inline-size: 100%;
-  block-size: .15rem;
+  block-size: .12rem;
   background-color: currentColor;
   position: absolute;
   bottom: -.2rem;
